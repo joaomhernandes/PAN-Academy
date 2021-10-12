@@ -2,7 +2,7 @@
   <img alt="logo banco pan e gama academy" src="https://github.com/joaomhernandes/PAN-Academy/blob/main/Assets/gama-pan-academy-logo.svg" style="width: 300%, height: auto" />
 </p>
 
-# PAN-Academy - Repositório para as atividades realizadas no PAN Academy
+# PAN Academy: Repositório de atividades realizadas
 
 ### Aula 1
 
