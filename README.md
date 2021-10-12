@@ -12,7 +12,7 @@
 3. Curiosidade: Tenho Hiperflexibilidade nas juntas dos dedos das mão
 
 ### Aula 2
-Feito os seguintes exercícios em Java:
+Exercícios em Java realizados em aula:
 
 1. [Maior e menor](https://github.com/joaomhernandes/PAN-Academy/blob/main/PrimeiroProjeto/src/MediaNotas.java)
 2. [Maior e menor V2](https://github.com/joaomhernandes/PAN-Academy/blob/main/PrimeiroProjeto/src/MaiorMenorV2.java)
@@ -21,7 +21,7 @@ Feito os seguintes exercícios em Java:
 5. [Média](https://github.com/joaomhernandes/PAN-Academy/blob/main/PrimeiroProjeto/src/MediaNotas.java)
 
 ### Aula 3
-Feito os seguintes exercícios em Java:
+Exercícios em Java realizados em aula:
 
 1. [Apples](https://github.com/joaomhernandes/PAN-Academy/blob/main/PrimeiroProjeto/src/Apples.java)
 2. [ClassificaTriangulo](https://github.com/joaomhernandes/PAN-Academy/blob/main/PrimeiroProjeto/src/ClassificaTriangulo.java)
