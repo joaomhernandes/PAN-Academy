@@ -8,6 +8,7 @@ public class Apples {
 		final float precoNormal = 0.30f;
 		final float precoPromo = 0.25f;
 		float total = 0.0f;
+		in.close();
 		
 		if (qntMacas >= 12) {
 			total = precoPromo * qntMacas;			
