@@ -29,9 +29,14 @@ Exercícios em Java realizados em aula:
 Exercícios em Java realizados em aula:
 
 1. [MediaWhile.](https://github.com/joaomhernandes/PAN-Academy/blob/main/PrimeiroProjeto/src/MediaWhile.java)
+2. [Primo.](https://github.com/joaomhernandes/PAN-Academy/blob/main/PrimeiroProjeto/src/Primo.java)
+3. [JogoAdivinhacao.](https://github.com/joaomhernandes/PAN-Academy/blob/main/PrimeiroProjeto/src/JogoAdivinhaca.java)
+4. [SomaPositivo.](https://github.com/joaomhernandes/PAN-Academy/blob/main/PrimeiroProjeto/src/SomaPositivo.java)
+5. [Soletrando.](https://github.com/joaomhernandes/PAN-Academy/blob/main/PrimeiroProjeto/src/Soletrando.java)
+6. [Maior.](https://github.com/joaomhernandes/PAN-Academy/blob/main/PrimeiroProjeto/src/Maior.java) - Foi utilizado a biblioteca JOptionPane.
 
 ## Contato
 
- <a href = "mailto:joaom.hernandes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "mailto:78742654+joaomhernandes@users.noreply.github.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/joão-maurício-hernandes-carrenho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
