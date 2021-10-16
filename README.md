@@ -35,6 +35,12 @@ Exercícios em Java realizados em aula:
 5. [Soletrando.](https://github.com/joaomhernandes/PAN-Academy/blob/main/PrimeiroProjeto/src/Soletrando.java)
 6. [Maior.](https://github.com/joaomhernandes/PAN-Academy/blob/main/PrimeiroProjeto/src/Maior.java) - Foi utilizado a biblioteca JOptionPane.
 
+### Aula 6 - 15/10/2021
+Exercícios em Java realizados em aula:
+
+1. [ContagemDiferenciada.](https://github.com/joaomhernandes/PAN-Academy/blob/main/PrimeiroProjeto/src/ContagemDiferenciada.java)
+2. [PesquisaHabitantes.](https://github.com/joaomhernandes/PAN-Academy/blob/main/PrimeiroProjeto/src/PesquisaHabitantes.java)
+
 ## Contato
 
  <a href = "mailto:78742654+joaomhernandes@users.noreply.github.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
