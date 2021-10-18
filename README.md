@@ -44,8 +44,12 @@ Exercícios em Java realizados em aula:
 ### Aula 7 - 16/10/2021
 Exercícios em Java realizados em aula:
 
-1. [TesteAnimais.](https://github.com/joaomhernandes/PAN-Academy/blob/main/HerancaPolimorfismo/src/TesteAnimais.java) - Uso de herança e polimorfismo, o programa utiliza as classes Animais.java, Passaros.java, Mamiferos.java e Habilidades.java.
- 
+1. [TesteAnimais.](https://github.com/joaomhernandes/PAN-Academy/blob/main/PrimeiroProjeto/src/HerancaPolimorfismo/TesteAnimais.java) - Uso de herança e polimorfismo, o programa utiliza as classes Animais.java, Passaros.java, Mamiferos.java e Habilidades.java.
+2. [Animais.](https://github.com/joaomhernandes/PAN-Academy/blob/main/PrimeiroProjeto/src/HerancaPolimorfismo/Animais.java)
+3. [Habilidades.](https://github.com/joaomhernandes/PAN-Academy/blob/main/PrimeiroProjeto/src/HerancaPolimorfismo/Habilidades.java)
+4. [Mamiferos.](https://github.com/joaomhernandes/PAN-Academy/blob/main/PrimeiroProjeto/src/HerancaPolimorfismo/Mamiferos.java)
+5. [Passaros.](https://github.com/joaomhernandes/PAN-Academy/blob/main/PrimeiroProjeto/src/HerancaPolimorfismo/Passaros.java) 
+
 ## Contato
 
  <a href = "mailto:joaom.hernandes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
