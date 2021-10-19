@@ -50,6 +50,15 @@ Exercícios em Java realizados em aula:
 4. [Mamiferos.](https://github.com/joaomhernandes/PAN-Academy/blob/main/PrimeiroProjeto/src/HerancaPolimorfismo/Mamiferos.java)
 5. [Passaros.](https://github.com/joaomhernandes/PAN-Academy/blob/main/PrimeiroProjeto/src/HerancaPolimorfismo/Passaros.java) 
 
+### Aula 8 - 18/10/2021
+Exercícios em Java realizados em aula:
+
+1. [ArrayForEach.](https://github.com/joaomhernandes/PAN-Academy/blob/main/PrimeiroProjeto/src/ArrayForEach.java) 
+2. [ArrayParImpar.](https://github.com/joaomhernandes/PAN-Academy/blob/main/PrimeiroProjeto/src/ArrayParImpar.java)
+3. [Aluno.](https://github.com/joaomhernandes/PAN-Academy/blob/main/PrimeiroProjeto/src/ArrayMedia/Aluno.java)
+4. [ArrayMedia.](https://github.com/joaomhernandes/PAN-Academy/blob/main/PrimeiroProjeto/src/ArrayMedia/ArrayMedia.java) - Instancia a classe Aluno e realiza a impressão dos dados solicitados.
+
+
 ## Contato
 
  <a href = "mailto:joaom.hernandes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
