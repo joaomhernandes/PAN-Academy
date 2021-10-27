@@ -16,10 +16,6 @@ public class ArrayMedia extends Aluno{
 
 }
 
-
-
-
-
 //Crie de  uma classe Aluno com os seguintes atributos e métodos: -String nome,
 //double[] notas,  aprovado(), maiorNota() e media() (além dos getters e setters
 //necessários).
