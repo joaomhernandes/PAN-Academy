@@ -60,7 +60,7 @@ Exercícios em Java realizados em aula:
 
 ### Aula - 29/10/2021
 Exercícios em Java realizados em aula:
-1. [API](https://github.com/joaomhernandes/PAN-Academy/blob/main/Sripring boot/PanAcademy/api) -API para CRUD de Usuários e Produtos.
+1. [API](https://github.com/joaomhernandes/PAN-Academy/blob/main/Sripring%20boot/PanAcademy/api/src/main/java/com/example/api/ApiApplication.java) -API para CRUD de Usuários e Produtos.
 
 ## Contato
 
