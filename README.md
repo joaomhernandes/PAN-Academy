@@ -2,13 +2,13 @@
 
 # PAN Academy: Repositório de atividades realizadas
 
-### Aula 1 - 08/10/2021
+### Aula - 08/10/2021
 
 1. Nome: João Maurício Hernandes Carrenho.
 2. Prato favorito: Poke.
 3. Curiosidade: Tenho Hiperflexibilidade nas juntas dos dedos das mão.
 
-### Aula 2 - 09/10/2021
+### Aula - 09/10/2021
 Exercícios em Java realizados em aula:
 
 1. [Maior e menor.](https://github.com/joaomhernandes/PAN-Academy/blob/main/PrimeiroProjeto/src/MediaNotas.java)
@@ -17,7 +17,7 @@ Exercícios em Java realizados em aula:
 4. [Senha.](https://github.com/joaomhernandes/PAN-Academy/blob/main/PrimeiroProjeto/src/VerificaSenha.java)
 5. [Média.](https://github.com/joaomhernandes/PAN-Academy/blob/main/PrimeiroProjeto/src/MediaNotas.java)
 
-### Aula 3 - 11/10/2021
+### Aula - 11/10/2021
 Exercícios em Java realizados em aula:
 
 1. [Apples.](https://github.com/joaomhernandes/PAN-Academy/blob/main/PrimeiroProjeto/src/Apples.java)
@@ -25,7 +25,7 @@ Exercícios em Java realizados em aula:
 3. [Poligono.](https://github.com/joaomhernandes/PAN-Academy/blob/main/PrimeiroProjeto/src/Poligono.java)
 4. [VerificaTriangulo.](https://github.com/joaomhernandes/PAN-Academy/blob/main/PrimeiroProjeto/src/VerificaTriangulo.java)
 
-### Aula 5 - 14/10/2021
+### Aula - 14/10/2021
 Exercícios em Java realizados em aula:
 
 1. [MediaWhile.](https://github.com/joaomhernandes/PAN-Academy/blob/main/PrimeiroProjeto/src/MediaWhile.java)
@@ -35,13 +35,13 @@ Exercícios em Java realizados em aula:
 5. [Soletrando.](https://github.com/joaomhernandes/PAN-Academy/blob/main/PrimeiroProjeto/src/Soletrando.java)
 6. [Maior.](https://github.com/joaomhernandes/PAN-Academy/blob/main/PrimeiroProjeto/src/Maior.java) - Foi utilizado a biblioteca JOptionPane.
 
-### Aula 6 - 15/10/2021
+### Aula - 15/10/2021
 Exercícios em Java realizados em aula:
 
 1. [ContagemDiferenciada.](https://github.com/joaomhernandes/PAN-Academy/blob/main/PrimeiroProjeto/src/ContagemDiferenciada.java)
 2. [PesquisaHabitantes.](https://github.com/joaomhernandes/PAN-Academy/blob/main/PrimeiroProjeto/src/PesquisaHabitantes.java)
 
-### Aula 7 - 16/10/2021
+### Aula - 16/10/2021
 Exercícios em Java realizados em aula:
 
 1. [TesteAnimais.](https://github.com/joaomhernandes/PAN-Academy/blob/main/PrimeiroProjeto/src/HerancaPolimorfismo/TesteAnimais.java) - Uso de herança e polimorfismo, o programa utiliza as classes Animais.java, Passaros.java, Mamiferos.java e Habilidades.java.
@@ -50,7 +50,7 @@ Exercícios em Java realizados em aula:
 4. [Mamiferos.](https://github.com/joaomhernandes/PAN-Academy/blob/main/PrimeiroProjeto/src/HerancaPolimorfismo/Mamiferos.java)
 5. [Passaros.](https://github.com/joaomhernandes/PAN-Academy/blob/main/PrimeiroProjeto/src/HerancaPolimorfismo/Passaros.java) 
 
-### Aula 8 - 18/10/2021
+### Aula - 18/10/2021
 Exercícios em Java realizados em aula:
 
 1. [ArrayForEach.](https://github.com/joaomhernandes/PAN-Academy/blob/main/PrimeiroProjeto/src/ArrayForEach.java) 
@@ -58,6 +58,9 @@ Exercícios em Java realizados em aula:
 3. [Aluno.](https://github.com/joaomhernandes/PAN-Academy/blob/main/PrimeiroProjeto/src/ArrayMedia/Aluno.java)
 4. [ArrayMedia.](https://github.com/joaomhernandes/PAN-Academy/blob/main/PrimeiroProjeto/src/ArrayMedia/ArrayMedia.java) - Instancia a classe Aluno e realiza a impressão dos dados solicitados.
 
+### Aula - 29/10/2021
+Exercícios em Java realizados em aula:
+1. [API](https://github.com/joaomhernandes/PAN-Academy/blob/main/Sripring boot/PanAcademy/api) -API para CRUD de Usuários e Produtos.
 
 ## Contato
 
