@@ -68,6 +68,11 @@ Exercícios em Java realizados em aula:
 
 1. [TabuadaTryCatch.](https://github.com/joaomhernandes/PAN-Academy/blob/main/PrimeiroProjeto/src/TabuadaTryCatch.java)
 
+### Aula - 01/11/2021
+Exercícios de banco de dados realizados em aula:
+
+1. [PetshopDB](https://github.com/joaomhernandes/PAN-Academy/tree/main/https://github.com/joaomhernandes/PAN-Academy/tree/main/BancoDeDados/)
+
 ## Contato
 
  <a href = "mailto:joaom.hernandes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
