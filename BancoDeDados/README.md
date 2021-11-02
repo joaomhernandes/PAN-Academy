@@ -53,7 +53,7 @@ devem ser feitos e entregues:
 
  - Foi realizada a consulta paginada e ordenada (utilizar ignorar , limitar e classificar ) com o comando "db.getCollection('Petshop').find({"pet.tutor": /.*João.*/, "pet.nome": /.*Flecha.*/}).limit(2)".
 
-##Database resultante
+## Database resultante
 
 [PetshopDB](https://github.com/joaomhernandes/PAN-Academy/blob/main/BancoDeDados/PetshopDB.js)
 
