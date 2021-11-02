@@ -71,7 +71,7 @@ Exercícios em Java realizados em aula:
 ### Aula - 01/11/2021
 Exercícios de banco de dados realizados em aula:
 
-1. [PetshopDB](https://github.com/joaomhernandes/PAN-Academy/tree/main/https://github.com/joaomhernandes/PAN-Academy/tree/main/BancoDeDados/)
+1. [PetshopDB](https://github.com/joaomhernandes/PAN-Academy/tree/main/BancoDeDados)
 
 ## Contato
 

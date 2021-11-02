@@ -55,7 +55,7 @@ devem ser feitos e entregues:
 
 ##Database resultante
 
-[PetshopDB](https://github.com/joaomhernandes/PAN-Academy/tree/main/https://github.com/joaomhernandes/PAN-Academy/tree/main/BancoDeDados/PetshopDB.js)
+[PetshopDB]https://github.com/joaomhernandes/PAN-Academy/blob/main/BancoDeDados/PetshopDB.js)
 
 
 
