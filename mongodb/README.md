@@ -20,7 +20,7 @@ Consultório Gama Pan anatomy - Criado uma plicação para que o consultório po
 
 ### Apresentação:
 
-[![](https://github.com/joaomhernandes/PAN-Academy/tree/main/mongodb/assets/Apresentação.png)](https://youtu.be/7wV2XtZ1SoY)
+[![](https://github.com/joaomhernandes/PAN-Academy/blob/main/mongodb/assets/Apresentação.png)](https://youtu.be/7wV2XtZ1SoY)
 
 
 
