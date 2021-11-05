@@ -15,10 +15,10 @@ Consultório Gama Pan anatomy - Criado uma plicação para que o consultório po
 ### Foram também implementado:
 
 - Possibilidade de salvar e listar paciente;
-- Função deletarPorCod para os médicos, pacientes e consultas;
+- Função deletar dados dos médicos, pacientes e consultas através de seus IDs;
+- Função de atualizar dados dos médicos, pacientes e consultas através de seus IDs;
 
-### O que será implementado:
 
- - Função de atualizar dados das consultas, médicos e pacientes;
+
 
 

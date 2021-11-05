@@ -38,5 +38,16 @@ public class PacienteServiceImpl implements PacienteService {
 		return retorno;
 	}
 	
+	@Override
+	public Paciente atualizar(String cod, Paciente paciente) {
+		Paciente newPaciente = obterPorCod(cod);
+		newPaciente.setNome(paciente.getNome());
+		newPaciente.setPlanoSaude(paciente.getPlanoSaude());
+		newPaciente.setCarteirinha(paciente.getCarteirinha());
+		newPaciente.setEndereco(paciente.getEndereco());
+		newPaciente.setTelefone(paciente.getTelefone());
+		return this.pacienteRepository.save(newPaciente);
+	}
+	
 	
 }

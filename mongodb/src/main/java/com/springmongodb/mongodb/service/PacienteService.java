@@ -13,4 +13,6 @@ public interface PacienteService {
 	public Paciente criar(Paciente paciente);
 	
 	public Paciente deletar(String cod);
+	
+	public Paciente atualizar(String cod, Paciente paciente);
 }

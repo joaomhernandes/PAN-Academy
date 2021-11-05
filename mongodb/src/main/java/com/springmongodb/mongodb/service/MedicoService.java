@@ -13,5 +13,7 @@ public interface MedicoService {
 	public Medico criar(Medico medico);
 	
 	public Medico deletar(String cod);
+	
+	public Medico atualizar(String cod, Medico medico);
 
 }

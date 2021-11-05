@@ -5,6 +5,7 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import com.springmongodb.mongodb.controller.MedicoController;
 import com.springmongodb.mongodb.model.Consulta;
 import com.springmongodb.mongodb.model.Medico;
 import com.springmongodb.mongodb.model.Paciente;
@@ -63,8 +64,32 @@ public class ConsultaServiceImpl implements ConsultaService{
 
 	@Override
 	public Consulta atualizar(String cod, Consulta consulta) {
-		// TODO Auto-generated method stub
-		return null;
+		Consulta newConsulta = obterPorCod(cod);
+		
+		Medico newMedico = new Medico();
+		newMedico.setId(consulta.getMedico().getId());
+		newMedico.setNome(consulta.getMedico().getNome());
+		newMedico.setDocumentoProfissional(consulta.getMedico().getDocumentoProfissional());
+		newMedico.setEspecialidade(consulta.getMedico().getEspecialidade());
+		newMedico.setTelefone(consulta.getMedico().getTelefone());
+		newConsulta.setMedico(newMedico);
+		
+		Paciente newPaciente = new Paciente();
+		newPaciente .setId(consulta.getPaciente().getId());
+		newPaciente .setNome(consulta.getPaciente().getNome());
+		newPaciente .setPlanoSaude(consulta.getPaciente().getPlanoSaude());
+		newPaciente .setCarteirinha(consulta.getPaciente().getCarteirinha());
+		newPaciente .setEndereco(consulta.getPaciente().getEndereco());
+		newPaciente .setTelefone(consulta.getPaciente().getTelefone());
+		newConsulta.setPaciente(newPaciente );
+		
+		newConsulta.setPrescricoes(consulta.getPrescricoes());
+		newConsulta.setExames(consulta.getExames());
+		newConsulta.setProntuario(consulta.getProntuario());
+		newConsulta.setData(consulta.getData());
+		
+		
+		return this.consultaRepository.save(newConsulta);
 	}
 	
 

@@ -38,6 +38,16 @@ public class MedicoServiceImpl implements MedicoService {
 		this.medicoRepository.deleteById(cod);
 		return retorno;
 	}
+	
+	@Override
+	public Medico atualizar(String cod, Medico medico) {
+		Medico newMedico = obterPorCod(cod);
+		newMedico.setNome(medico.getNome());
+		newMedico.setDocumentoProfissional(medico.getDocumentoProfissional());
+		newMedico.setEspecialidade(medico.getEspecialidade());
+		newMedico.setTelefone(medico.getTelefone());
+		return this.medicoRepository.save(newMedico);
+	}
 
 		
 	
