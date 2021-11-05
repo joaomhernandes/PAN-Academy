@@ -73,6 +73,11 @@ Exercícios de banco de dados realizados em aula:
 
 1. [PetshopDB](https://github.com/joaomhernandes/PAN-Academy/tree/main/BancoDeDados)
 
+### Aula - 04/11/2021
+Exercícios de banco de dados realizados em aula:
+
+1. [mongodb](https://github.com/joaomhernandes/PAN-Academy/tree/main/mongodb)
+
 ## Contato
 
  <a href = "mailto:joaom.hernandes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
