@@ -5,7 +5,6 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.springmongodb.mongodb.controller.MedicoController;
 import com.springmongodb.mongodb.model.Consulta;
 import com.springmongodb.mongodb.model.Medico;
 import com.springmongodb.mongodb.model.Paciente;
@@ -66,22 +65,17 @@ public class ConsultaServiceImpl implements ConsultaService{
 	public Consulta atualizar(String cod, Consulta consulta) {
 		Consulta newConsulta = obterPorCod(cod);
 		
-		Medico newMedico = new Medico();
-		newMedico.setId(consulta.getMedico().getId());
-		newMedico.setNome(consulta.getMedico().getNome());
-		newMedico.setDocumentoProfissional(consulta.getMedico().getDocumentoProfissional());
-		newMedico.setEspecialidade(consulta.getMedico().getEspecialidade());
-		newMedico.setTelefone(consulta.getMedico().getTelefone());
-		newConsulta.setMedico(newMedico);
+		Medico medico = 
+				this.medicoRepository
+					.findById(consulta.getMedico().getId())
+					.orElseThrow(() -> new IllegalArgumentException("Médico inexistente"));
+			newConsulta.setMedico(medico);
 		
-		Paciente newPaciente = new Paciente();
-		newPaciente .setId(consulta.getPaciente().getId());
-		newPaciente .setNome(consulta.getPaciente().getNome());
-		newPaciente .setPlanoSaude(consulta.getPaciente().getPlanoSaude());
-		newPaciente .setCarteirinha(consulta.getPaciente().getCarteirinha());
-		newPaciente .setEndereco(consulta.getPaciente().getEndereco());
-		newPaciente .setTelefone(consulta.getPaciente().getTelefone());
-		newConsulta.setPaciente(newPaciente );
+		Paciente paciente = 
+				this.pacienteRepository
+					.findById(consulta.getPaciente().getId())
+					.orElseThrow(() -> new IllegalArgumentException("Paciente inexistente"));
+			newConsulta.setPaciente(paciente);
 		
 		newConsulta.setPrescricoes(consulta.getPrescricoes());
 		newConsulta.setExames(consulta.getExames());
