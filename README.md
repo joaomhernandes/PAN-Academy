@@ -78,6 +78,11 @@ Exercícios de banco de dados realizados em aula:
 
 1. [mongodb](https://github.com/joaomhernandes/PAN-Academy/tree/main/mongodb)
 
+## Desafio
+
+1. [Loja virtual com carrinho de compras] (https://github.com/joaomhernandes/PrimeiroDesafioT1/tree/Jo%C3%A3o-Maur%C3%ADcio/Jo%C3%A3oMaur%C3%ADcioHCarrenho)
+
+
 ## Contato
 
  <a href = "mailto:joaom.hernandes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
