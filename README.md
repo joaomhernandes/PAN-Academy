@@ -80,7 +80,7 @@ Exercícios de banco de dados realizados em aula:
 
 ## Desafio
 
-1. [Loja virtual com carrinho de compras] (https://github.com/joaomhernandes/PrimeiroDesafioT1/tree/Jo%C3%A3o-Maur%C3%ADcio/Jo%C3%A3oMaur%C3%ADcioHCarrenho)
+1. [Loja virtual com carrinho de compras](https://github.com/joaomhernandes/PrimeiroDesafioT1/tree/Jo%C3%A3o-Maur%C3%ADcio/Jo%C3%A3oMaur%C3%ADcioHCarrenho)
 
 
 ## Contato
