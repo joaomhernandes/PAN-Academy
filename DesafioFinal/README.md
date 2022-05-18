@@ -39,7 +39,7 @@ O PROGRAMA TEM QUE RODAR NO CONSOLE.
 ## 1º encontro em 20/10/2021
 
 Inicialmente foi discutido e modelado o problema pelo grupo, chegando ao modelo abaixo:
-<img title="Modelo para o desafio 1" src="https://github.com/joaomhernandes/PrimeiroDesafioT1/blob/João-Maurício/JoãoMaurícioHCarrenho/assets/modelagem.svg" alt="Modelagem do projeto" style="width: 244px, height: auto, margin-left: auto, margin-left: auto"/>
+<img title="Modelo para o desafio 1" src="https://github.com/joaomhernandes/PAN-Academy/blob/main/DesafioFinal/assets/modelagem.svg" alt="Modelagem do projeto" style="width: 244px margin-left: auto margin-left: auto"/>
 
 Em seguida foram desenvolvidas as classes Produtos e Loja. Na classe produto, além de seus atributos foram impementados o Constructor, os Getters e Setters, e Sobrescrita o metodo toString, a fim de formatar a saída do método.
 Ja na classe Loja foram implementados os métodos div(), verMenuPrincipal(), verProdutos(), verCarrinho().
@@ -76,15 +76,4 @@ Por último foram formatados os formulários da aplicação utilizando-se o coma
 
 Foram sanados alguns bugs e apresentado o trabalho desenvolvido para a turma.
 
-Segue uma apresentação dos trabalhos desenvolvidos. Devido a problemas técnicos o audio da apresentação foi prejudicado.
-<video src="https://youtu.be/gWFGv9Xr2sE" controls width=300>Vídeo da apresentação do projeto.</video>
-
 [![](https://github.com/joaomhernandes/PAN-Academy/blob/main/DesafioFinal/assets/Apresentacao.png)](https://youtu.be/gWFGv9Xr2sE)
-
-
-
-
-
-
-
-
